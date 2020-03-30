@@ -37,7 +37,7 @@ libclang可以作为前端parse c++的代码，获取所有的类型声明、变
 
 2. generate_enum 用来处理enum的反射 不过对于enum推荐使用 
 
-   [magic_enum]: https://github.com/Neargye/magic_enum
+   [magic_enum](https://github.com/Ewenwan/magic_enum)
 
    来操作反射相关
 
